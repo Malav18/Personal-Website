@@ -344,7 +344,7 @@ a {
 .proj-card {
     width: 90%;
     height: 550px;
-    background-image: url(./images/Project2.png);
+    background-image: url( Project2.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -472,21 +472,21 @@ a {
 }
 
 #proj1 {
-    background-image: url(./images/Project1.png);
+    background-image: url( Project1.png);
 }
 
 #proj2 {
     margin-left: 120px;
-    background-image: url(./images/Project2.png);
+    background-image: url( Project2.png);
 }
 
 #proj3 {
-    background-image: url(./images/Project3.png);
+    background-image: url( Project3.png);
 }
 
 #proj4 {
     margin-left: 120px;
-    background-image: url(./images/Project4.png);
+    background-image: url( Project4.png);
 }
 
 .skills-container {
